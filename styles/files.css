@@ -1,0 +1,45 @@
+.main_files {
+    background-color: #e4e4e4;
+    
+    height: 75vh;
+    width: 100vw;
+}
+
+.section_h3 {
+    font-size: 1.4rem;
+    padding: 5px 40px;
+    text-align: center;
+    color: #333;
+}
+.section_main {
+
+    background-color: #fff;
+    box-shadow: 0 10px 20px -10px rgba(0, 0, 0, 0.5);
+
+    height: 70%;
+    width: 90%;
+    padding: 10px;
+    margin: 15px auto;
+
+    display: flex;
+    justify-content: center;
+
+}
+.section_main ul {
+    text-align: center;
+    padding: 0 10px;
+    width: 50%;
+}
+.right_links {
+    border-left: 2px dotted grey;
+}
+.section_links {
+    font-size: 1.2rem;
+}
+
+.link_index {
+
+    font-size: 1.4rem;
+    text-align: center;
+    color: #333;
+}
